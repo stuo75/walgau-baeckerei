@@ -1,19 +1,4 @@
 {
 	"aktuelles": [],
-	"verkaufsstellen-content": [
-		{
-			"image": "https://picsum.photos/500",
-			"vs-standort": "Bludesch",
-			"vs_adresse": "Walgaustrasse 26",
-			"vs_phone": "Tel.: +43 5550 2108",
-			"vs-zeitentitel": "Öffnungszeiten",
-			"vs-zeiten": "\n                Montag-Samstag "
-		},
-		{
-			"image": "https://picsum.photos/501",
-			"vs-standort": "Gais",
-			"vs_adresse": "Walgaustrasse 33\n6719 Bludesch-Gais",
-			"vs_phone": "+43 5525 646 66"
-		}
-	]
+	"verkaufsstellen-content": []
 }
