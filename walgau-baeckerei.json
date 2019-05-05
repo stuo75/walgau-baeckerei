@@ -3,7 +3,7 @@
 	"verkaufsstellen-content": [],
 	"vscontent": [
 		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@83571ae062adbab0a2f2a6a65a9be07cca490a27/images/bäckerei_logo.jpg",
+			"bild": "https://picsum.photos/500",
 			"vsstandort": "Thüringen",
 			"vsadresse": "Walgaustrasse 1",
 			"vsplz-ort": "6712 Thüringen",
@@ -31,7 +31,7 @@
 			"vszeiten": "05:30-12:00"
 		},
 		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@4cdd7f8d1dd6567abed6a5abc606aab996a4b149/images/wbalt2.bmp",
+			"bild": "https://picsum.photos/501",
 			"vsstandort": "Raggal",
 			"vsadresse": "Hausnummer 111",
 			"vsplz-ort": "6741 Raggal",
