@@ -6,8 +6,9 @@
 			"bild": "https://picsum.photos/500",
 			"vsstandort": "Bludesch",
 			"vsadresse": "Walgaustrasse 26",
-			"vs-zeiten": "Montag bis Samstag"
-		},
-		{}
+			"vs-zeiten": "Montag bis Samstag",
+			"vsplz-ort": "6712 Bludesch",
+			"vs_phone": "+43 5550 2108"
+		}
 	]
 }
