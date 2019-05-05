@@ -3,6 +3,17 @@
 	"verkaufsstellen-content": [],
 	"vscontent": [
 		{
+			"bild": "https://picsum.photos/500",
+			"vsstandort": "Thüringen",
+			"vsadresse": "Walgaustrasse 1",
+			"vsplz-ort": "6712 Thüringen",
+			"vs_phone": "+43 5550 215 10",
+			"vswochentage": "Montag bis Samstag",
+			"vsgeschlossen": "Donnerstag und Samstag Nachmittag geschlossen",
+			"vszeiten": "07:30-12:00 - 14:30-18:00",
+			"vstiteloeffunungszeiten": "Öffnungszeiten"
+		},
+		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@896955265c14268bb4b42865f410b4cead530a2d/images/Logo_sw.jpg",
 			"vsstandort": "Bludesch",
 			"vsadresse": "Walgaustrasse 26",
@@ -30,7 +41,8 @@
 			"vsplz-ort": "6741 Raggal",
 			"vs_phone": "+43 5553 381",
 			"vswochentage": "Montag bis Samstag",
-			"vszeiten": "07:00-11:00"
+			"vszeiten": "07:00-11:00",
+			"vstiteloeffunungszeiten": "Öffnungszeiten"
 		}
 	]
 }
