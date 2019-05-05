@@ -1,4 +1,12 @@
 {
 	"aktuelles": [],
-	"verkaufsstellen-content": []
+	"verkaufsstellen-content": [],
+	"vscontent": [
+		{
+			"bild": "https://picsum.photos/500",
+			"vsstandort": "Bludesch",
+			"vsadresse": "Walgaustrasse 26<br>6712 Bludesch Gais",
+			"vs-zeiten": "Montag bis Samstag"
+		}
+	]
 }
