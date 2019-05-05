@@ -3,16 +3,6 @@
 	"verkaufsstellen-content": [],
 	"vscontent": [
 		{
-			"bild": "https://picsum.photos/500",
-			"vsstandort": "Thüringen",
-			"vsadresse": "Walgaustrasse 1",
-			"vsplz-ort": "6712 Thüringen",
-			"vs_phone": "+43 5550 215 10",
-			"vswochentage": "Montag bis Samstag",
-			"vsgeschlossen": "Donnerstag und Samstag Nachmittag geschlossen",
-			"vszeiten": "07:30-12:00 - 14:30-18:00"
-		},
-		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@896955265c14268bb4b42865f410b4cead530a2d/images/Logo_sw.jpg",
 			"vsstandort": "Bludesch",
 			"vsadresse": "Walgaustrasse 26",
@@ -20,7 +10,8 @@
 			"vs_phone": "+43 5525 2108",
 			"vswochentage": "Montag bis Samstag",
 			"vszeiten": "06:30-12:00 - 14:30-18:00",
-			"vsgeschlossen": "Donnerstag und Samstag Nachmittag geschlossen"
+			"vsgeschlossen": "Donnerstag und Samstag Nachmittag geschlossen",
+			"vstiteloeffunungszeiten": "Öffnungszeiten"
 		},
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@3f6039d312c405ad2dfcc70a824b0a5ca33c393e/images/Walgau-Baeckerei.jpg",
@@ -29,7 +20,8 @@
 			"vsplz-ort": "6719 Bludesch-Gais",
 			"vs_phone": "+43 5525 646 66",
 			"vswochentage": "Montag bis Samstag",
-			"vszeiten": "05:30-12:00"
+			"vszeiten": "05:30-12:00",
+			"vstiteloeffunungszeiten": "Sommeröffnungszeiten (03.08 bis 15.08)"
 		},
 		{
 			"bild": "https://picsum.photos/501",
