@@ -29,7 +29,7 @@
 		{
 			"newsbild": "https://picsum.photos/406",
 			"newsheadline": "srtrset",
-			"newstext": "ertretr\n\nfsdkgöfdkg\n\n4455667\n\nfdgfgsd\n\nsdfgdfsg\n\nsdgfdsgdsfg",
+			"newstext": "<p>ertretr fsdkg&ouml;fdkg 4455667 fdgfgsd sdfgdfsg sdgfdsgdsfg</p>\n<p>sdfdsfsfs<br />dgdfgfgd</p>\n<p>&nbsp;</p>\n<p>gfdgfdgfdgfdg</p>",
 			"newsangebot": "EUR 3,70"
 		}
 	],
