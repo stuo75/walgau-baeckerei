@@ -2,13 +2,13 @@
 	"aktuelles": [
 		{
 			"newsangebot": "EUR 2,99",
-			"newsbild": "https://picsum.photos/600",
+			"newsbild": "https://picsum.photos/401",
 			"newsheadline": "Headline",
 			"newssubheadline": "Subheadline",
 			"newstext": "Hier seht mein text  dkfalfj eiwfj ailfjaisfjiewafj iafj iasjf iasefj iasdfj asdifj sadeilfj asdelifj asifj weifj awiiajewifj aeiwfj ieajf ijf ieafj"
 		},
 		{
-			"newsbild": "https://picsum.photos/470",
+			"newsbild": "https://picsum.photos/403",
 			"newsheadline": "Wir stellen ein",
 			"newssubheadline": "Bäckereigehilfe",
 			"newstext": "asdf asdf dasfakslöf as dsa asdlkf adsöf a kdfljdsaölf asdkf asdöfjadsf askl dfasdlöfkj asdf as sakfjkasdöf laksdjf. \n  \nMelde dich unter 8768687687687687687"
@@ -23,14 +23,14 @@
 		{
 			"newsbild": "https://picsum.photos/406",
 			"newsheadline": "srtrset",
-			"newstext": "<p>ertretr fsdkg&ouml;fdkg 4455667 fdgfgsd sdfgdfsg sdgfdsgdsfg</p>\n<p>sdfdsfsfs<br />dgdfgfgd</p>\n<p>&nbsp;</p>\n<p>gfdgfdgfdgfdg</p>\n<h1><strong>EUR 3,70</strong></h1>",
+			"newstext": "<p>ertretr fsdkg&ouml;fdkg 4455667 fdgfgsd sdfgdfsg sdgfdsgdsfg</p>\n<p>sdfdsfsfs<br />dgdfgfgd</p>\n<p>&nbsp;</p>\n<p>gfdgfdgfdgfdg</p>",
 			"newsangebot": "EUR 3,70"
 		}
 	],
 	"verkaufsstellen-content": [],
 	"vscontent": [
 		{
-			"bild": "https://picsum.photos/500",
+			"bild": "https://picsum.photos/400",
 			"vsstandort": "Thüringen",
 			"vsadresse": "Walgaustrasse 1",
 			"vsplz-ort": "6712 Thüringen",
@@ -62,7 +62,7 @@
 			"vstiteloeffunungszeiten": "Sommeröffnungszeiten (03.08 bis 15.08)"
 		},
 		{
-			"bild": "https://picsum.photos/501",
+			"bild": "https://picsum.photos/400",
 			"vsstandort": "Raggal",
 			"vsadresse": "Hausnummer 111",
 			"vsplz-ort": "6741 Raggal",
