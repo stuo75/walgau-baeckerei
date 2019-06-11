@@ -25,6 +25,12 @@
 			"newsheadline": "srtrset",
 			"newstext": "<p>ertretr fsdkg&ouml;fdkg 4455667 fdgfgsd sdfgdfsg sdgfdsgdsfg</p>\n<p>sdfdsfsfs<br />dgdfgfgd</p>\n<p>&nbsp;</p>\n<p>gfdgfdgfdgfdg</p>",
 			"newsangebot": "EUR 3,70"
+		},
+		{
+			"newsheadline": "Headline",
+			"newssubheadline": "Subheadline",
+			"newstext": "<p>Newstest</p>",
+			"newsangebot": "Preis"
 		}
 	],
 	"verkaufsstellen-content": [],
