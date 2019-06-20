@@ -1,36 +1,29 @@
 {
 	"aktuelles": [
 		{
-			"newsangebot": "EUR 2,99",
-			"newsbild": "https://picsum.photos/401",
-			"newsheadline": "Headline",
-			"newssubheadline": "Subheadline",
-			"newstext": "Hier seht mein text  dkfalfj eiwfj ailfjaisfjiewafj iafj iasjf iasefj iasdfj asdifj sadeilfj asdelifj asifj weifj awiiajewifj aeiwfj ieajf ijf ieafj"
-		},
-		{
-			"newsbild": "https://picsum.photos/403",
-			"newsheadline": "Wir stellen ein",
-			"newssubheadline": "Bäckereigehilfe",
-			"newstext": "<p>asdf asdf dasfaksl&ouml;f as dsa asdlkf ads&ouml;f a kdfljdsa&ouml;lf asdkf asd&ouml;fjadsf askl dfasdl&ouml;fkj asdf as sakfjkasd&ouml;f laksdjf. Melde dich unter 8768687687687687687</p>\n<p>ddfsfa</p>\n<p>sdfdsaf</p>\n<p>d</p>\n<p>f</p>\n<p>&nbsp;</p>\n<p>dafgadsfgdagdfgdsgsfdg</p>"
-		},
-		{
-			"newsbild": "https://picsum.photos/402",
-			"newsheadline": "Angebot für kommenden Samstag den ...",
-			"newssubheadline": "5 Stück Jourgebäck",
-			"newstext": "500g\n\nSie sparen 20% vom Normalverkaufspreis.",
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@89668d44530dda7cfac9501169bebc0227177b37/images/angebot.jpg",
+			"newsheadline": "5 Stück Jourgebäck",
+			"newssubheadline": "für das kommende Grillwochenende",
+			"newstext": "<p>Sie sparen 20% vom Normalverkaufspreis</p>\n<p>g&uuml;ltig f&uuml;r Freitag und Samstag den 28. und 29 Juli</p>",
 			"newsangebot": "EUR 2,45"
 		},
 		{
-			"newsbild": "https://picsum.photos/406",
+			"newsangebot": "EUR 2,99",
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@7bd20e2b26c3f3d09eb5777e2b0606ceead0bf01/images/angebot.jpg",
+			"newsheadline": "feines Topfentascherl",
+			"newstext": "Hier seht mein text  dkfalfj eiwfj ailfjaisfjiewafj iafj iasjf iasefj iasdfj asdifj sadeilfj asdelifj asifj weifj awiiajewifj aeiwfj ieajf ijf ieafj"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@5ff9235c297587efdedaa714fefdd8afe6c6d4f4/images/news.jpg",
+			"newsheadline": "Wir stellen ein",
+			"newssubheadline": "Bäckereigehilfe",
+			"newstext": "<p>asdf asdf dasfaksl&ouml;f as dsa asdlkf ads&ouml;f a kdfljdsa&ouml;lf asdkf asd&ouml;fjadsf askl dfasdl&ouml;fkj asdf as sakfjkasd&ouml;f laksdjf. Melde dich unter 8768687687687687</p>\n<p>dafgadsfgdagdfgdsgsfdg</p>"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@5c3c2c46bb9fe143044ed8c8f25a0dc422da7abb/images/job.jpg",
 			"newsheadline": "srtrset",
 			"newstext": "<p>ertretr fsdkg&ouml;fdkg 4455667 fdgfgsd sdfgdfsg sdgfdsgdsfg</p>\n<p>sdfdsfsfs<br />dgdfgfgd</p>\n<p>&nbsp;</p>\n<p>gfdgfdgfdgfdg</p>",
 			"newsangebot": "EUR 3,70"
-		},
-		{
-			"newsheadline": "Headline",
-			"newssubheadline": "Subheadline",
-			"newstext": "<p>Newstest</p>",
-			"newsangebot": "Preis"
 		}
 	],
 	"verkaufsstellen-content": [],
