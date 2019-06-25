@@ -29,7 +29,7 @@
 	"verkaufsstellen-content": [],
 	"vscontent": [
 		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@5cad501c4c25ad7700ee75b3547e0d0d0df66647/images/Filiale_Thueringen_475px.jpg",
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@1112e1f10688895155d5047ec29cec10cc9a59bd/images/Filiale_Thueringen_625px.jpg",
 			"vsstandort": "Thüringen",
 			"vsadresse": "Walgaustrasse 1",
 			"vsplz-ort": "6712 Thüringen",
@@ -41,7 +41,7 @@
 			"vszeitentitel": "Öffnungszeiten"
 		},
 		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@c3d62fcf89ba34f282f808ce3766e2b608ff3612/images/Filiale_Bludesch_475px.jpg",
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@be6040fab9e67ecd5d6c3c5bba5d018916d11a66/images/Filiale_Bludesch_625px.jpg",
 			"vsstandort": "Bludesch",
 			"vsadresse": "Walgaustrasse 26",
 			"vsplz-ort": "6719 Bludesch",
@@ -53,7 +53,7 @@
 			"vszeitentitel": "Öffnungszeiten"
 		},
 		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@6e282b03a95c8ffda01778c13aee2a7189fa238a/images/Filiale_Gais_475px.jpg",
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@c3fcf1665e5223c2e73edacc02cb9ab81d075259/images/Filiale_Gais_625px.jpg",
 			"vsstandort": "Gais",
 			"vsadresse": "Walgaustrasse 33",
 			"vsplz-ort": "6719 Bludesch-Gais",
@@ -64,7 +64,7 @@
 			"vszeitentitel": "Öffnungszeiten"
 		},
 		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@36edbaa6fb927a8f43a202b8d8769bb30d9820af/images/Filiale_Raggal_475px.jpg",
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@bf56dbd7c78921177691638b68fbec94a48618a5/images/Filiale_Raggal_625px.jpg",
 			"vsstandort": "Raggal",
 			"vsadresse": "Hausnummer 111",
 			"vsplz-ort": "6741 Raggal",
