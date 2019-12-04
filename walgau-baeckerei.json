@@ -2,68 +2,12 @@
 	"aktuelles": [
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@86802ec150cb139ce868bd7a6e4723916b59c8fe/images/angebot_625px.jpg",
-			"newsheadline": "Info's folgen demnächst!"
-		},
-		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@86802ec150cb139ce868bd7a6e4723916b59c8fe/images/angebot_625px.jpg",
-			"newsheadline": "Info's folgen demnächst!"
-		},
-		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@562caa3b370661067ef39711bbf297ab3d711bd6/images/job_625px.jpg",
-			"newsheadline": "Info's folgen demnächst!"
-		},
-		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@05e1e3836fa85505f4440ff0dea1e2c8de8149be/images/news_625px.jpg",
-			"newsheadline": "Info's folgen demnächst!"
+			"newsheadline": "Info's folgen demnächst!",
+			"newstext": "\n            "
 		}
 	],
 	"verkaufsstellen-content": [],
 	"vscontent": [
-		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@1112e1f10688895155d5047ec29cec10cc9a59bd/images/Filiale_Thueringen_625px.jpg",
-			"vsstandort": "Thüringen",
-			"vsadresse": "Walgaustrasse 1",
-			"vsplz-ort": "6712 Thüringen",
-			"vs_phone": "+43 5550 215 10",
-			"vswochentage": "Montag bis Samstag",
-			"vsgeschlossen": "Donnerstag und Samstag Nachmittag geschlossen",
-			"vszeiten": "<p>Mo. - Sa.&nbsp; 07:30 -12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen.</p>",
-			"vstiteloeffunungszeiten": "Öffnungszeiten",
-			"vszeitentitel": "Öffnungszeiten"
-		},
-		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@be6040fab9e67ecd5d6c3c5bba5d018916d11a66/images/Filiale_Bludesch_625px.jpg",
-			"vsstandort": "Bludesch",
-			"vsadresse": "Walgaustrasse 26",
-			"vsplz-ort": "6719 Bludesch",
-			"vs_phone": "+43 5525 2108",
-			"vswochentage": "Montag bis Samstag",
-			"vszeiten": "<p>Mo. - Sa. 06:30 - 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen.</p>",
-			"vsgeschlossen": "Donnerstag und Samstag Nachmittag geschlossen",
-			"vstiteloeffunungszeiten": "Öffnungszeiten",
-			"vszeitentitel": "Öffnungszeiten"
-		},
-		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@c3fcf1665e5223c2e73edacc02cb9ab81d075259/images/Filiale_Gais_625px.jpg",
-			"vsstandort": "Gais",
-			"vsadresse": "Walgaustrasse 33",
-			"vsplz-ort": "6719 Bludesch-Gais",
-			"vs_phone": "+43 5525 646 66",
-			"vswochentage": "Montag bis Samstag",
-			"vszeiten": "<p>Mo. - Sa. 05:30 - 12:00</p>",
-			"vstiteloeffunungszeiten": "Sommeröffnungszeiten (03.08 bis 15.08)",
-			"vszeitentitel": "Öffnungszeiten"
-		},
-		{
-			"bild": "https://cdn.jsdelivr.net/gh/stuo75/walgau-baeckerei@bf56dbd7c78921177691638b68fbec94a48618a5/images/Filiale_Raggal_625px.jpg",
-			"vsstandort": "Raggal",
-			"vsadresse": "Hausnummer 111",
-			"vsplz-ort": "6741 Raggal",
-			"vs_phone": "+43 5553 381",
-			"vswochentage": "Montag bis Samstag",
-			"vszeiten": "<p>&nbsp;Mo. - Sa. 07:30 - 11:00</p>",
-			"vstiteloeffunungszeiten": "Öffnungszeiten",
-			"vszeitentitel": "Öffnungszeiten"
-		}
+		{}
 	]
 }
